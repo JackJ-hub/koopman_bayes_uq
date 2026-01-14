@@ -4,3 +4,5 @@ Koopman operator learning with Bayesian regression for data-driven dynamical sys
 Parts of this repository were generated with assistance from ChatGPT (OpenAI) and then reviewed/edited by the author.
 
 This project is under guidance of Prof. Thomas Swinburne.
+
+Some code is learned from Scikitlearn.
